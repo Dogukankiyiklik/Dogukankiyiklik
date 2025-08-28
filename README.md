@@ -71,7 +71,7 @@
 | **Girişimcilik Ödevleri** | |  | [🔗 Repo]() |
 | **İşletim Sistemleri Laboratuvar Uygulamaları** | |  | [🔗 Repo]() |
 
-### 📫 Bana ulaşın: [LinkedIn](https://www.linkedin.com/in/kiyiklik-dogukan) • kiyiklik.dogukan@gmail.com
+### 📫 Bana ulaşın: • [LinkedIn](https://www.linkedin.com/in/kiyiklik-dogukan) • kiyiklik.dogukan@gmail.com
 
 <i>⭐ Eğer projelerimi faydalı bulduysanız, yıldız bırakmayı unutmayın.</i><br/>
 
