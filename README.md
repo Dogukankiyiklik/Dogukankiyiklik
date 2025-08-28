@@ -1,9 +1,9 @@
 <!-- Language Switch -->
 <p align="right">
-  <a href="#-türkçe" title="Türkçe bölümüne git">
+  <a href="#tr"><img src="https://img.shields.io/badge/Dil-TR-red?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/Dil-TR-red?style=for-the-badge" />
   </a>
-  <a href="#-english" title="Go to English section">
+   <a href="#en"><img src="https://img.shields.io/badge/Language-EN-blue?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/Language-EN-blue?style=for-the-badge" />
   </a>
 </p>
@@ -24,7 +24,7 @@
 ---
 
 <details open>
-<summary><b>🇹🇷 Türkçe</b></summary>
+<a id="tr">[TR] Türkçe</a>
 
 ## 📌 Hakkımda
 
@@ -94,7 +94,7 @@
 ---
 
 <details>
-<summary><b>🇬🇧 English</b></summary>
+<a id="en">English</a>
 
 ## 📌 About Me
 
