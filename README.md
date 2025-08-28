@@ -1,7 +1,7 @@
 <!-- Dil Seçici -->
 <p align="right">
-  <a href="#-türkçe"><img src="https://img.shields.io/badge/🇹🇷-Türkçe-red?style=for-the-badge" /></a>
-  <a href="#-english"><img src="https://img.shields.io/badge/🇬🇧-English-blue?style=for-the-badge" /></a>
+  <a href="#-türkçe"><img src="https://img.shields.io/badge/Türkçe-red?style=for-the-badge" /></a>
+  <a href="#-english"><img src="https://img.shields.io/badge/English-blue?style=for-the-badge" /></a>
 </p>
 
 <h1 align="center">👋 Merhaba, Ben Doğukan KIYIKLIK</h1>
@@ -19,7 +19,7 @@
 
 ---
 
-## 🇹🇷 Türkçe
+## Türkçe
 
 ### 📌 Hakkımda
 - 🎓 Eskişehir Osmangazi Üniversitesi **Bilgisayar Mühendisliği** öğrencisiyim.  
@@ -60,7 +60,7 @@
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### 📌 About Me
 - 🎓 Computer Engineering student at **Eskişehir Osmangazi University**.  
