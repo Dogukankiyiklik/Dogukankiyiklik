@@ -1,10 +1,8 @@
 <!-- Language Switch -->
 <p align="right">
   <a href="#tr"><img src="https://img.shields.io/badge/Dil-TR-red?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/Dil-TR-red?style=for-the-badge" />
   </a>
    <a href="#en"><img src="https://img.shields.io/badge/Language-EN-blue?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/Language-EN-blue?style=for-the-badge" />
   </a>
 </p>
 
