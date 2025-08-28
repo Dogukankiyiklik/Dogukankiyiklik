@@ -3,7 +3,6 @@
   <a href="#turkish"><img src="https://img.shields.io/badge/Türkçe-red?style=for-the-badge" /></a>
   <a href="#english"><img src="https://img.shields.io/badge/English-blue?style=for-the-badge" /></a>
 </p>
----
 
 ## Türkçe <a id="turkish"></a>
 
@@ -75,6 +74,4 @@
 
 <i>⭐ Eğer projelerimi faydalı bulduysanız, yıldız bırakmayı unutmayın.</i><br/>
 
----
-
-## English
+## English <a id="english"></a>
