@@ -1,8 +1,11 @@
 <!-- Dil Seçici -->
 <p align="right">
-  <a href="#-türkçe"><img src="https://img.shields.io/badge/Türkçe-red?style=for-the-badge" /></a>
-  <a href="#-english"><img src="https://img.shields.io/badge/English-blue?style=for-the-badge" /></a>
+  <a href="#turkish"><img src="https://img.shields.io/badge/Türkçe-red?style=for-the-badge" /></a>
+  <a href="#english"><img src="https://img.shields.io/badge/English-blue?style=for-the-badge" /></a>
 </p>
+---
+
+## Türkçe <a id="turkish"></a>
 
 <h1 align="center">👋 Merhaba, Ben Doğukan KIYIKLIK</h1>
 <h3 align="center">Bilgisayar Mühendisliği Öğrencisi</h3>
@@ -11,10 +14,6 @@
   <a href="https://www.linkedin.com/in/kiyiklik-dogukan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Doğukan%20KIYIKLIK-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:kiyiklik.dogukan@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-kiyiklik.dogukan%40gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
----
-
-## Türkçe
 
 ### 📌 Hakkımda
 - 🎓 Eskişehir Osmangazi Üniversitesi **Bilgisayar Mühendisliği** öğrencisiyim.  
@@ -29,7 +28,6 @@
 | **Veritabanları**        | SQL, MongoDB |
 | **Web**                  | HTML, CSS, React |
 | **Araçlar & Çerçeveler** | Git, PyTorch, Unreal Engine |
-| **Alanlar**              | Makine Öğrenimi, Görüntü İşleme, Oyun Geliştirme |
 
 ### 🏆 Sertifikalar
 - [Applications of AI for Predictive Maintenance — NVIDIA](https://learn.nvidia.com/certificates?id=A2w5uaJFTciZ-Iul1gn5uA)
@@ -38,7 +36,6 @@
 ### 🔥 Öne Çıkan Projeler
 | Proje | Açıklama | Teknolojiler | Repo |
 |------|----------|--------------|------|
-
 
 ### 🎓 Akademik Projelerim
 | Proje | Açıklama | Teknolojiler | Repo |
@@ -74,10 +71,7 @@
 | **Girişimcilik Ödevleri** | |  | [🔗 Repo]() |
 | **İşletim Sistemleri Labaratuvar Uygulamaları** | |  | [🔗 Repo]() |
 
-### 📫 Bana Ulaşın
-- 📩 **E-posta:** kiyiklik.dogukan@gmail.com  
-- 🔗 **LinkedIn:** [kiyiklik-dogukan](https://www.linkedin.com/in/kiyiklik-dogukan)  
-- 🐱 **GitHub:** [Dogukankiyiklik](https://github.com/Dogukankiyiklik)
+### 📫 Bana ulaşın: [LinkedIn](https://www.linkedin.com/in/kiyiklik-dogukan) • kiyiklik.dogukan@gmail.com
 
 <i>⭐ Eğer projelerimi faydalı bulduysanız, yıldız bırakmayı unutmayın.</i><br/>
 
