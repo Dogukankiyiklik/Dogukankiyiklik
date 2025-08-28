@@ -7,7 +7,7 @@
 ## Türkçe <a id="turkish"></a>
 
 <h1 align="center">👋 Merhaba, Ben Doğukan KIYIKLIK</h1>
-<h3 align="center">Bilgisayar Mühendisliği Öğrencisi</h3>
+<h3 align="center">Bilgisayar Mühendisliği Öğrencisi • Oyun Geliştirme • Yapay Zeka</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kiyiklik-dogukan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Doğukan%20KIYIKLIK-blue?style=flat-square&logo=linkedin"></a>
@@ -24,9 +24,9 @@
 | Kategori                 | Teknolojiler |
 |--------------------------|--------------|
 | **Programlama Dilleri**  | Python, C++ |
-| **Veritabanları**        | SQL, MongoDB |
-| **Web**                  | HTML, CSS, React |
-| **Araçlar & Çerçeveler** | Git, PyTorch, Unreal Engine |
+| **Veritabanları**        | SQL |
+| **Web**                  | React |
+| **Araçlar & Çerçeveler** | Git, PyTorch, Unreal Engine 5 |
 
 ### 🏆 Sertifikalar
 - [Applications of AI for Predictive Maintenance — NVIDIA](https://learn.nvidia.com/certificates?id=A2w5uaJFTciZ-Iul1gn5uA)
@@ -35,6 +35,7 @@
 ### 🔥 Öne Çıkan Projeler
 | Proje | Açıklama | Teknolojiler | Repo |
 |------|----------|--------------|------|
+| **** |  |  | [🔗 Repo]() |
 
 ### 🎓 Akademik Projelerim
 | Proje | Açıklama | Teknolojiler | Repo |
@@ -49,29 +50,30 @@
 | **Unreal Engine ile Dijital Oyun Geliştirme Kaçış Odası Oyunu** | |  | [🔗 Repo]() |
 | **Neural Network Ahşap Yüzeylerde Anomali Tespiti Projesi** |  | | [🔗 Repo]() |
 
-### 🎓 Akademik Ödevlerim
+### 🎓 Akademik Ödevlerim (Arşiv)
 | Ders | Proje | Teknolojiler | Repo |
 |-----|-------|--------------|------|
-| **Fizik 1 Labaratuvar Raporları** |  |  | [🔗 Repo]() |
-| **Fizik 2 Labaratuvar Raporları** |  | | [🔗 Repo]() |
-| **Programlamaya Giriş Labaratuvar Uygulama** |  || [🔗 Repo]() |
+| **Fizik 1 Laboratuvar Raporları** |  |  | [🔗 Repo]() |
+| **Fizik 2 Laboratuvar Raporları** |  | | [🔗 Repo]() |
+| **Programlamaya Giriş Laboratuvar Uygulama** |  || [🔗 Repo]() |
 | **Numerical Methods Ödevleri** |  | | [🔗 Repo]() |
-| **OOP Labaratuvar Uygulamaları** |  || [🔗 Repo]() |
-| **Veri Yapıları Labaratuvar Uygulamaları** | |  | [🔗 Repo]() |
-| **Fundementals of Electronics Ödevleri** | |  | [🔗 Repo]() |
-| **OOP-2 Labaratuvar Uygulamaları** | |  | [🔗 Repo]() |
-| **Sayısal Tasarım Labaratuvar Uygulamaları** | |  | [🔗 Repo]() |
+| **OOP Laboratuvar Uygulamaları** |  || [🔗 Repo]() |
+| **Veri Yapıları Laboratuvar Uygulamaları** | |  | [🔗 Repo]() |
+| **Fundamentals of Electronics Ödevleri** | |  | [🔗 Repo]() |
+| **OOP-2 Laboratuvar Uygulamaları** | |  | [🔗 Repo]() |
+| **Sayısal Tasarım Laboratuvar Uygulamaları** | |  | [🔗 Repo]() |
 | **Yazılım Mühendisliği Araştırma Ödevi** | |  | [🔗 Repo]() |
-| **Veritabanı Labaratuvar Uygulamaları** | |  | [🔗 Repo]() |
+| **Veritabanı Laboratuvar Uygulamaları** | |  | [🔗 Repo]() |
 | **Tasarım Süreçleri Ders Ödevi** | |  | [🔗 Repo]() |
-| **Mirocomputers Labaratuvar Uygulamaları** | |  | [🔗 Repo]() |
+| **Microcomputers Laboratuvar Uygulamaları** | |  | [🔗 Repo]() |
 | **Unreal Engine ile Dijital Oyun Geliştirme Ödevleri** | |  | [🔗 Repo]() |
-| **Bilgisayar Ağları Labaratuvar Uygulamaları** | |  | [🔗 Repo]() |
+| **Bilgisayar Ağları Laboratuvar Uygulamaları** | |  | [🔗 Repo]() |
 | **Girişimcilik Ödevleri** | |  | [🔗 Repo]() |
-| **İşletim Sistemleri Labaratuvar Uygulamaları** | |  | [🔗 Repo]() |
+| **İşletim Sistemleri Laboratuvar Uygulamaları** | |  | [🔗 Repo]() |
 
 ### 📫 Bana ulaşın: [LinkedIn](https://www.linkedin.com/in/kiyiklik-dogukan) • kiyiklik.dogukan@gmail.com
 
 <i>⭐ Eğer projelerimi faydalı bulduysanız, yıldız bırakmayı unutmayın.</i><br/>
 
 ## English <a id="english"></a>
+_The English version of my profile will be available soon._
