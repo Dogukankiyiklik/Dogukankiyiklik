@@ -56,7 +56,7 @@
 | **Fizik 1 Laboratuvar Raporları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Fizik_1-Laboratuvar_Raporlari/tree/main) |
 | **Fizik 2 Laboratuvar Raporları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Fizik_2-Laboratuvar_Raporlari) |
 | **Programlama Laboratuvar Uygulamaları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Programlama-Laboratuvar_Uygulamalari/tree/main) |
-| **Numerical Methods Ödevleri** |  | | [🔗 Repo]() |
+| **Numerical Methods Ödevleri** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Numerical_Methods-Odevleri/tree/main) |
 | **OOP Laboratuvar Uygulamaları** |  || [🔗 Repo]() |
 | **Veri Yapıları Laboratuvar Uygulamaları** | |  | [🔗 Repo]() |
 | **Fundamentals of Electronics Ödevleri** | |  | [🔗 Repo]() |
