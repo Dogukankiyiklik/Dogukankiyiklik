@@ -54,7 +54,7 @@
 | Ders | Repo |
 |-----|------|
 | **Fizik 1 Laboratuvar Raporları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Fizik_1-Laboratuvar_Raporlari/tree/main) |
-| **Fizik 2 Laboratuvar Raporları** |  | | [🔗 Repo]() |
+| **Fizik 2 Laboratuvar Raporları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Fizik_2-Laboratuvar_Raporlari) |
 | **Programlamaya Giriş Laboratuvar Uygulama** |  || [🔗 Repo]() |
 | **Numerical Methods Ödevleri** |  | | [🔗 Repo]() |
 | **OOP Laboratuvar Uygulamaları** |  || [🔗 Repo]() |
