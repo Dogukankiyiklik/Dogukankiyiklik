@@ -51,9 +51,9 @@
 | **Neural Network Ahşap Yüzeylerde Anomali Tespiti Projesi** |  | | [🔗 Repo]() |
 
 ### 🎓 Akademik Ödevlerim (Arşiv)
-| Ders | Proje | Teknolojiler | Repo |
-|-----|-------|--------------|------|
-| **Fizik 1 Laboratuvar Raporları** |  |  | [🔗 Repo]() |
+| Ders | Repo |
+|-----|------|
+| **Fizik 1 Laboratuvar Raporları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Fizik_1-Laboratuvar_Raporlari/tree/main) |
 | **Fizik 2 Laboratuvar Raporları** |  | | [🔗 Repo]() |
 | **Programlamaya Giriş Laboratuvar Uygulama** |  || [🔗 Repo]() |
 | **Numerical Methods Ödevleri** |  | | [🔗 Repo]() |
