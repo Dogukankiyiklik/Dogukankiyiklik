@@ -58,7 +58,7 @@
 | **Programlama Laboratuvar Uygulamaları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Programlama-Laboratuvar_Uygulamalari/tree/main) |
 | **Numerical Methods Ödevleri** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Numerical_Methods-Odevleri/tree/main) |
 | **OOP-1 Laboratuvar Uygulamaları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_OOP_1-Laboratuvar_Uygulamalari/tree/main) |
-| **Veri Yapıları Laboratuvar Uygulamaları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Veri_Yapilari-Laboratuvar_Uygulamalari/blob/main/README.md) |
+| **Veri Yapıları Laboratuvar Uygulamaları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Veri_Yapilari-Laboratuvar_Uygulamalari/tree/main) |
 | **Fundamentals of Electronics Ödevleri** | |  | [🔗 Repo]() |
 | **OOP-2 Laboratuvar Uygulamaları** | |  | [🔗 Repo]() |
 | **Sayısal Tasarım Laboratuvar Uygulamaları** | |  | [🔗 Repo]() |
