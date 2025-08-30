@@ -62,7 +62,7 @@
 | **Fundamentals of Electronics Ödevleri** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Fundementals_of_Electronics-Odevleri/tree/main) |
 | **OOP-2 Laboratuvar Uygulamaları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_OOP_2-Laboratuvar_Uygulamalari/tree/main) |
 | **Sayısal Tasarım Laboratuvar Uygulamaları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Sayisal_Tasarim-Laboratuvar_Uygulamalari/tree/main) |
-| **Veritabanı Laboratuvar Uygulamaları** | |  | [🔗 Repo]() |
+| **Veritabanı Yönetim Süreçleri Laboratuvar Uygulamaları** | |  | [🔗 Repo]() |
 | **Tasarım Süreçleri Ders Ödevi** | |  | [🔗 Repo]() |
 | **Microcomputers Laboratuvar Uygulamaları** | |  | [🔗 Repo]() |
 | **Unreal Engine ile Dijital Oyun Geliştirme Ödevleri** | |  | [🔗 Repo]() |
