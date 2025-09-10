@@ -64,7 +64,7 @@
 | **Sayısal Tasarım Laboratuvar Uygulamaları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Sayisal_Tasarim-Laboratuvar_Uygulamalari/tree/main) |
 | **Veritabanı Yönetim Süreçleri Laboratuvar Uygulamaları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Veritabani_Yonetim_Surecleri-Laboratuvar_Uygulamalari/tree/main) |
 | **Microcomputers Laboratuvar Uygulamaları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Microcomputers-Laboratuvar_Uygulamalari/tree/main) |
-| **Unreal Engine ile Dijital Oyun Geliştirme Ödevleri** | |  | [🔗 Repo]() |
+| **Unreal Engine ile Dijital Oyun Geliştirme Ödevleri** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_UE_Dijital_Oyun_Gelistirme-Odevleri/tree/main) |
 | **Bilgisayar Ağları Laboratuvar Uygulamaları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Bilgisayar_Aglari-Laboratuvar_Uygulamalari/tree/main) |
 | **İşletim Sistemleri Laboratuvar Uygulamaları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Isletim_Sistemleri-Laboratuvar_Uygulamalari/tree/main) |
 
