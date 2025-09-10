@@ -66,7 +66,7 @@
 | **Microcomputers Laboratuvar Uygulamaları** | |  | [🔗 Repo]() |
 | **Unreal Engine ile Dijital Oyun Geliştirme Ödevleri** | |  | [🔗 Repo]() |
 | **Bilgisayar Ağları Laboratuvar Uygulamaları** | |  | [🔗 Repo]() |
-| **İşletim Sistemleri Laboratuvar Uygulamaları** | |  | [🔗 Repo]() |
+| **İşletim Sistemleri Laboratuvar Uygulamaları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Isletim_Sistemleri-Laboratuvar_Uygulamalari/tree/main) |
 
 ### 📫 Bana ulaşın: • [LinkedIn](https://www.linkedin.com/in/kiyiklik-dogukan) • kiyiklik.dogukan@gmail.com
 
