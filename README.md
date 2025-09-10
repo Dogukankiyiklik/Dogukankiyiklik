@@ -65,7 +65,7 @@
 | **Veritabanı Yönetim Süreçleri Laboratuvar Uygulamaları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Veritabani_Yonetim_Surecleri-Laboratuvar_Uygulamalari/tree/main) |
 | **Microcomputers Laboratuvar Uygulamaları** | |  | [🔗 Repo]() |
 | **Unreal Engine ile Dijital Oyun Geliştirme Ödevleri** | |  | [🔗 Repo]() |
-| **Bilgisayar Ağları Laboratuvar Uygulamaları** | |  | [🔗 Repo]() |
+| **Bilgisayar Ağları Laboratuvar Uygulamaları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Bilgisayar_Aglari-Laboratuvar_Uygulamalari/tree/main) |
 | **İşletim Sistemleri Laboratuvar Uygulamaları** | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Isletim_Sistemleri-Laboratuvar_Uygulamalari/tree/main) |
 
 ### 📫 Bana ulaşın: • [LinkedIn](https://www.linkedin.com/in/kiyiklik-dogukan) • kiyiklik.dogukan@gmail.com
