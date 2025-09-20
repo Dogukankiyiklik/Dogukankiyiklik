@@ -37,17 +37,15 @@
 |------|----------|--------------|------|
 | **** |  |  | [🔗 Repo]() |
 
-### 🎓 Akademik Projelerim
+### 🎓 Akademik Projelerim (Arşiv)
 | Proje | Açıklama | Teknolojiler | Repo |
 |------|----------|--------------|------|
-| **Programlamaya Giriş-1 Kart Oyunu Projesi** |  |  | [🔗 Repo]() |
-| **Programlamaya Giriş-2 Kart Oyunu Projesi** | |  | [🔗 Repo]() |
+| **Programlama Kart Oyunu Projesi** |  |  | [🔗 Repo]() |
 | **OOP Robot Kontrol Projesi** | |  | [🔗 Repo]() |
-| **Otomata SIEM Projesi** | |  | [🔗 Repo]() |
-| **Olasılık Projesi** | |  | [🔗 Repo]() |
+| **SIEM Projesi** | |  | [🔗 Repo]() |
 | **OOP-2 Ajanda Uygulama Projesi** | |  | [🔗 Repo]() |
-| **Veritabanı Esray Dernek Yönetim Sistemi** | |  | [🔗 Repo]() |
-| **Unreal Engine ile Dijital Oyun Geliştirme Kaçış Odası Oyunu** | |  | [🔗 Repo]() |
+| **Dernek Yönetim Sistemi Projesi** | |  | [🔗 Repo]() |
+| **Unreal Engine ile Dijital Oyun Geliştirme Kaçış Odası Oyunu Projesi** | |  | [🔗 Repo]() |
 | **Neural Network Ahşap Yüzeylerde Anomali Tespiti Projesi** |  | | [🔗 Repo]() |
 
 ### 🎓 Akademik Ödevlerim (Arşiv)
