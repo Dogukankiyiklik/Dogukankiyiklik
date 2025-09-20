@@ -35,7 +35,7 @@
 ### 🔥 Öne Çıkan Projeler
 | Proje | Açıklama | Teknolojiler | Repo |
 |------|----------|--------------|------|
-| **** |  |  | [🔗 Repo]() |
+| **Neural Network Ahşap Yüzeylerde Anomali Tespiti Projesi** | Ahşap yüzey verileri üzerinde denetimsiz öğrenme ile kusur tespiti ve segmentasyon. Gradio arayüzü ile modellerin test edilmesi. | Python, PyTorch, Anomalib, Gradio, Google Colab | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Neural_Networks-Anomaly_Detection) |
 
 ### 🎓 Akademik Projelerim (Arşiv)
 | Proje | Açıklama | Teknolojiler | Repo |
