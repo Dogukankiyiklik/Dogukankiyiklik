@@ -42,7 +42,7 @@
 |------|----------|--------------|------|
 | **Programlama Kart Oyunu Projesi** |  |  | [🔗 Repo]() |
 | **OOP Robot Kontrol Projesi** | |  | [🔗 Repo]() |
-| **SIEM Projesi** | |  | [🔗 Repo]() |
+| **SIEM Projesi** | USB Radar loglarını analiz ederek kritik güvenlik olaylarını tespit eden, XML tabanlı DFA yapısı kullanan C# Windows Forms uygulaması. | C#, Windows Forms, XML | [🔗 Repo](https://github.com/Dogukankiyiklik/ESOGU_CENG_Otomata-SIEM/tree/main) |
 | **OOP-2 Ajanda Uygulama Projesi** | |  | [🔗 Repo]() |
 | **Dernek Yönetim Sistemi Projesi** | |  | [🔗 Repo]() |
 | **Unreal Engine ile Dijital Oyun Geliştirme Kaçış Odası Oyunu Projesi** | |  | [🔗 Repo]() |
