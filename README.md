@@ -15,10 +15,10 @@
 </p>
 
 ### 📌 Hakkımda
-- 🎓 Eskişehir Osmangazi Üniversitesi **Bilgisayar Mühendisliği** öğrencisiyim.  
-- 💡 İlgi alanlarım arasında **Oyun Geliştirme**, **Yapay Zeka** ve **Agentic AI** yer alıyor.  
-- 🛠️ **Python**, **C++** ve **Unreal Engine 5** üzerinde deneyim kazanıyorum.  
-- 👨‍💻 Şu anda **TÜBİTAK’a başvurduğumuz Agentic AI for GUI Automation** projesi üzerinde çalışıyorum.
+- Eskişehir Osmangazi Üniversitesi **Bilgisayar Mühendisliği** öğrencisiyim.  
+- İlgi alanlarım arasında **Oyun Geliştirme**, **Yapay Zeka** ve **Agentic AI** yer alıyor.  
+- **Python**, **C++** ve **Unreal Engine 5** üzerinde deneyim kazanıyorum.  
+- Şu anda **TÜBİTAK’a başvurduğumuz Agentic AI for GUI Automation** projesi üzerinde çalışıyorum.
 
 ### 🛠️ Teknik Yetenekler
 | Kategori                 | Teknolojiler |
